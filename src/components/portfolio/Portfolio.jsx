@@ -25,7 +25,7 @@ const items = [
   {
     id: 3,
     title: "React-Native Fav Places App",
-    img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "/fav-places.png",
     desc: `A Cross Platform Mobile App Build using React Native which uses React Navigation to navigation among multiple screens.
     This App lets you save and store your favorite places using your camera and Google Maps in phone storage.`,
     href: "https://github.com/rishipramanik/native-fav-places"
